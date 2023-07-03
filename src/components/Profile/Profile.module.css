@@ -51,13 +51,13 @@
   padding: 1rem 0;
   font-size: 1.5rem;
   text-align: center;
-  border-top: 1px solid #d3d5e3;
+  border-top: 1px solid #cbcedd;
   background-color: rgba(241, 241, 241, 0.833);
 }
 
 .viewsList {
-  border-left: 1px solid #d3d5e3;
-  border-right: 1px solid #d3d5e3;
+  border-left: 1px solid #c9ccda;
+  border-right: 1px solid #c9ccda;
 }
 
 .followersList {
